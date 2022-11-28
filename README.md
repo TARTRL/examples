@@ -13,8 +13,8 @@ Available examples:
   - [TLaunch with data transfer](./examples/quick_start/test_worker_consumer.py)
 - [Computer Vision](./examples/CV/):
   - [minist train on single node](./examples/CV/MNIST/)
-  - [minist with torchrun](./examples/CV/torchrun/MNIST/)
-  - [mnist with deepspeed](./examples/CV/deepspeed/MNIST/)
+  - [minist with torchrun](./examples/CV/torchrun/)
+  - [mnist with deepspeed](./examples/CV/deepspeed/)
 
 - [Natural Language Processing](./examples/NLP/):
   - [P-tuning-v2](./examples/NLP/P-tuning-v2/)
